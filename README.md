@@ -22,4 +22,4 @@ The idea here is to create an online database of one's cards with additional inf
 This work is currently under construction. I plan to succesively add aditional features.
 <br>
 <br>
-Feel free to check the project's current state, comment and test. THank you!
+Feel free to check the project's current state, comment and test. Thank you!
