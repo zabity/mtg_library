@@ -9,12 +9,14 @@ This is my final project for the <strong>CodersLab</strong> bootcamp in JavaScri
 <br>
 Technologies used:
 <br>
-&gt;React.js
-&gt;CSS + SASS
-&gt;Fetch API
+&rarr;React.js
+<br>
+&rarr;CSS + SASS
+<br>
+&rarr;Fetch API
 <br>
 <br>
-Magic the Gathering is a pretty old card game consisting of gazillions of cards, which can get out of hand pretty easily at one's home, especially if he or she decides to share cards with a flatmate (which was my case).<br>
+Magic the Gathering is a pretty old card game consisting of gazillions of cards, which can get out of hand pretty easily at one's home, especially if he or she decides to share cards with a flatmate (which was my case).<br><br>
 The idea here is to create an online database of one's cards with additional informations about cards, as well as to provide possibility of deck building/saving and browsing global card database.
 <br>
 This work is currently under construction. I plan to succesively add aditional features.
