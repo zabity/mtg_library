@@ -1,7 +1,5 @@
 <h1>Welcome to the MTG Decks!</h1>
-<br>
-<br>
-<a href="https://zabity.github.io/mtg_library/">Check the site here</a>
+<a href="https://zabity.github.io/mtg_library/">Visit the site</a>
 <br>
 <br>
 This is my final project for the <strong>CodersLab</strong> bootcamp in JavaScript and React.
