@@ -2,6 +2,10 @@
 <a href="https://zabity.github.io/mtg_library/">Visit the site</a>
 <br>
 <br>
+Manual:<br>
+&rarr;sign up (name and password are stored in your localStorage, no data collecting here :) ), this will unlock other functionalities<br>
+&rarr;in <i>Collection</i> tab write card name e.g. "Totally Lost" and add it<br>
+&rarr;in <i>All Cards</i> tab you can browse cards by name and color<br><br>
 This is my final project for the <strong>CodersLab</strong> bootcamp in JavaScript and React.
 <br>
 <br>
